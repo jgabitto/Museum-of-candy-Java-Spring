@@ -1,5 +1,5 @@
 # Museum of Candy Java Spring
----
+
 This is my first readme file for my GitHub repo so bear with me for any information that is lacking or esoteric!
 
 My website is about a fictitious pop-up candy exhibit, Museum of Candy. It was created using Bootstrap, Javascript, Java MVC Spring, and a MySQL database. The design layout was taken from Colt Steele's Web Developer Bootcamp and the descriptions/pictures were taken from https::/www.candytopia.com and https://unsplash.com respectively.
@@ -16,4 +16,4 @@ The about page has 3 pictures and 3 descriptions about Museum of Candy. The sign
 
 Screenshots of each page can be found below:
 
-![alt text](C:\Users\Jorge Gabitto\Desktop\mOfC)
+[Home Page](https://imgur.com/ElmYzWw)

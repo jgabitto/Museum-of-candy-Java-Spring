@@ -17,3 +17,5 @@ The about page has 3 pictures and 3 descriptions about Museum of Candy. The sign
 Screenshots of each page can be found below:
 
 [Home Page](https://imgur.com/ElmYzWw)
+[About Page](https://imgur.com/198IIeB)
+[SignUp Page](https://imgur.com/T0WHO1W)
